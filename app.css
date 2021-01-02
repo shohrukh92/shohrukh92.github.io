@@ -3,17 +3,19 @@ body {
     "Lucida Sans", Arial, sans-serif;
   font-size: 16px;
   padding-top: 40px;
+  color: #333;
 }
 
 /*-------------- aside (left) --------------*/
 aside .social-links .social-link {
-  padding: 4px;
+  margin-right: 12px;
+  padding: 0;
   background-color: transparent;
 }
 
 aside .social-links .social-link img {
-  width: 20px;
-  height: 20px;
+  width: 24px;
+  height: 24px;
 }
 
 aside .profile-name {

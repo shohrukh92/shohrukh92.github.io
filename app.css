@@ -3,3 +3,64 @@ body {
     "Lucida Sans", Arial, sans-serif;
   font-size: 16px;
 }
+
+/*-------------- aside (left) --------------*/
+aside .social-links .social-link {
+  padding: 4px;
+  background-color: transparent;
+}
+
+aside .social-links .social-link img {
+  width: 20px;
+  height: 20px;
+}
+
+aside .profile-name {
+  font-size: 1.3rem;
+}
+
+aside .profile-designation {
+  font-size: 1rem;
+}
+
+aside .widget .widget-content {
+  font-size: 1rem;
+}
+
+aside .widget.card .widget-title {
+  font-weight: bold;
+}
+
+/*-------------- main --------------*/
+main p {
+  font-size: 1rem;
+}
+
+main .section-title {
+  font-size: 1.2rem;
+  margin-bottom: 1.5rem;
+}
+
+main .time-line-item-title {
+  font-size: 1rem;
+}
+
+main .time-line-item-subtitle {
+  font-size: 0.8rem;
+}
+
+main .time-line-item-content {
+  font-size: 0.8rem;
+}
+
+main .time-line-item .badge {
+  font-size: 0.7rem;
+}
+
+main .service-card .service-title {
+  font-size: 1rem;
+}
+
+main .service-card .service-description {
+  font-size: 0.8rem;
+}

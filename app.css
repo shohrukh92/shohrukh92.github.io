@@ -2,6 +2,7 @@ body {
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
     "Lucida Sans", Arial, sans-serif;
   font-size: 16px;
+  padding-top: 40px;
 }
 
 /*-------------- aside (left) --------------*/
@@ -63,4 +64,5 @@ main .service-card .service-title {
 
 main .service-card .service-description {
   font-size: 0.8rem;
+  max-width: 100%;
 }

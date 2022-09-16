@@ -1,0 +1,23 @@
+.encoder-page {
+}
+
+.encoder-form {
+    padding: 15px;
+    max-width: 800px;
+}
+
+.encoder-buttons {
+    display: flex;
+    justify-content: flex-end;
+    margin: 10px 0;
+}
+
+.encoder-buttons button {
+    margin-left: 20px;
+}
+
+.encoder-page-header {
+    padding: 15px;
+    background-color: #1990ff;
+    box-shadow: 0 0 10px #b2b2b2
+}

@@ -1,0 +1,70 @@
+body {
+  margin: 0;
+  font-family: "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans",
+    "Droid Sans", "Helvetica Neue", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-size: 16px;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+.main-container {
+  margin: 0 auto;
+  max-width: 480px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.app-header {
+  width: 100%;
+  padding: 20px;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.app-title {
+  margin: 0;
+  color: #1890ff;
+  margin-right: 5px;
+}
+
+.cards-row {
+  display: flex;
+}
+
+.card {
+  cursor: pointer;
+  margin: 10px;
+  font-size: 35px;
+  text-align: center;
+  width: 100px;
+}
+
+.ant-card-body {
+  padding: 15px;
+}
+
+.img-icon {
+  width: 50px;
+}
+
+.actions-bar {
+  display: flex;
+  align-items: baseline;
+  margin: 20px 0;
+}
+.actions-bar > * {
+  margin: 10px;
+}
+
+.results-table th,
+.results-table td {
+  padding: 0 10px;
+}
